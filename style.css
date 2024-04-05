@@ -1,0 +1,9 @@
+.big-box {
+  padding-left: min(80px, 10%);
+  padding-right: min(80px, 10%);
+  background-color: aquamarine;
+}
+
+.small-box {
+  background-color: coral;
+}
